@@ -16,8 +16,8 @@
 </head>
 
 <body>
+    <h1>{{$trains[1]->agency}}</h1>
 
-<h1>Trains</h1>
 
 
 </body>
